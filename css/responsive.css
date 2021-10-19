@@ -32,16 +32,16 @@
 		margin: 60px 0 0 0;
 		width: 100%;
 
-		background-image: url('../img/anastasia-mobile-001.jpg');
+		background-image: url('../img/bg_1920x1080.jpg');
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
-	}
+	} */
 	.divPageContent {
 		padding-left: 0px;
 		margin-left: 0px;
@@ -116,11 +116,11 @@
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
 
-	}
+	} */
 	.divPageContent {
 		padding-left: 0px;
 		margin-left: 0px;
@@ -224,12 +224,10 @@
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
-
-		/* animation: none; */
-	}
+	} */
 	.divPageContent {
 		padding-left: 0px;
 		margin-left: 0px;
@@ -314,12 +312,10 @@
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
-
-		/* animation: none; */
-	}
+	} */
 	.divPageContent {
 		padding-left: 0px;
 		margin-left: 0px;
@@ -409,12 +405,10 @@
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
-
-		/* animation: none; */
-	}
+	} */
 	iframe {
 		width: 100% !important;
 	}
@@ -504,11 +498,10 @@
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
-
-	}
+	} */
 	iframe {
 		width: 100% !important;
 	}
@@ -599,12 +592,10 @@
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
-
-		/* animation: none; */
-	}
+	} */
 	iframe {
 		width: 100% !important;
 	}
@@ -679,12 +670,10 @@
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
-
-		/* animation: none; */
-	}
+	} */
 	iframe {
 		width: 100% !important;
 	}
@@ -759,12 +748,10 @@
 
 		background-attachment: fixed;
 	}
-	.divBodyContent::before {
+	/* .divBodyContent::before {
 		background-image: url('../img/anastasia-mobile-002.jpg');
 		background-size: cover;
-
-		/* animation: none; */
-	}
+	} */
 	.divPageContent {
 		padding-left: 0px;
 		margin-left: 0px;

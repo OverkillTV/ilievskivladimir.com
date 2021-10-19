@@ -86,7 +86,7 @@ a {
     /* height: calc(100% - 108px); */
 
     position: relative;
-    background-image: url('../img/anastasia-mk-001.jpg');
+    background-image: url('../img/bg_1920x1080.jpg');
     /* background-size: cover; */
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -95,13 +95,13 @@ a {
     font-family: "Open Sans", sans-serif;
 
     /* opacity: 0; */
-    animation-name: blackBgFadeInOut;
+    /*animation-name: blackBgFadeInOut;*/
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     animation-duration: 15s;
     animation-direction: normal;
 }
-.divBodyContent::before {
+/* .divBodyContent::before {
     content: "";
     position: absolute;
     top: 0;
@@ -121,7 +121,7 @@ a {
     animation-iteration-count: infinite;
     animation-duration: 15s;
     animation-direction: normal;
-}
+} */
 
 .divPageContent {
     /* max-width: 600px;
