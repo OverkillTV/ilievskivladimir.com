@@ -83,7 +83,7 @@
 
 		background-image: url('../img/bg_1920x1080.jpg');
 		background-size: 1920px 1080px;
-		background-position-y: 40px;
+		/* background-position-y: 40px; */
 
 		background-attachment: fixed;
 	}
@@ -157,9 +157,9 @@
 		height: 100%;
 
 		background-image: url('../img/bg_600x1600.jpg');
-		background-position-y: 40px;
-		
-		background-size: 100% 100%;
+		/* background-position-y: 40px; */
+		background-size: cover;
+		background-position: center center;
 
 		background-attachment: fixed;
 	}
@@ -262,9 +262,9 @@
 		height: 100%;
 
 		background-image: url('../img/bg_600x1600.jpg');
-		background-position-y: 40px;
-		
-		background-size: 100% 100%;
+		/* background-position-y: 40px; */
+		background-size: cover;
+		background-position: center center;
 
 		background-attachment: fixed;
 	}
@@ -348,9 +348,9 @@
 		height: 100%;
 
 		background-image: url('../img/bg_600x1600.jpg');
-		background-position-y: 40px;
-		
-		background-size: 100% 100%;
+		/* background-position-y: 40px; */
+		background-size: cover;
+		background-position: center center;
 
 		background-attachment: fixed;
 	}
@@ -439,9 +439,9 @@
 		height: 100%;
 
 		background-image: url('../img/bg_600x1600.jpg');
-		background-position-y: 40px;
-		
-		background-size: 100% 100%;
+		/* background-position-y: 40px; */
+		background-size: cover;
+		background-position: center center;
 
 		background-attachment: fixed;
 	}
@@ -530,9 +530,9 @@
 		height: 100%;
 
 		background-image: url('../img/bg_600x1600.jpg');
-		background-position-y: 40px;
-		
-		background-size: 100% 100%;
+		/* background-position-y: 40px; */
+		background-size: cover;
+		background-position: center center;
 
 		background-attachment: fixed;
 	}
@@ -622,9 +622,9 @@
 		height: 100%;
 
 		background-image: url('../img/bg_600x1600.jpg');
-		background-position-y: 40px;
-		
-		background-size: 100% 100%;
+		/* background-position-y: 40px; */
+		background-size: cover;
+		background-position: center center;
 
 		background-attachment: fixed;
 	}
@@ -698,9 +698,9 @@
 		height: 100%;
 
 		background-image: url('../img/bg_600x1600.jpg');
-		background-position-y: 40px;
-		
-		background-size: 100% 100%;
+		/* background-position-y: 40px; */
+		background-size: cover;
+		background-position: center center;
 
 		background-attachment: fixed;
 	}
@@ -774,9 +774,9 @@
 		height: 100%;
 
 		background-image: url('../img/bg_600x1600.jpg');
-		background-position-y: 40px;
-		
-		background-size: 100% 100%;
+		/* background-position-y: 40px; */
+		background-size: cover;
+		background-position: center center;
 
 		background-attachment: fixed;
 	}
