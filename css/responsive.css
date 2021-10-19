@@ -110,9 +110,10 @@
 
 		background-image: url('../img/bg_600x1600.jpg');
 		background-position-y: 40px;
-		background-size: cover;
+		background-position-x: -155px;
+		background-size: 600px 1600px;
 
-		background-attachment: fixed;
+		background-attachment: scroll;
 	}
 	.divPageContent {
 		padding-left: 0px;
@@ -214,9 +215,10 @@
 
 		background-image: url('../img/bg_600x1600.jpg');
 		background-position-y: 40px;
-		background-size: cover;
+		background-position-x: -155px;
+		background-size: 600px 1600px;
 
-		background-attachment: fixed;
+		background-attachment: scroll;
 	}
 	.divPageContent {
 		padding-left: 0px;
@@ -299,9 +301,10 @@
 
 		background-image: url('../img/bg_600x1600.jpg');
 		background-position-y: 40px;
-		background-size: cover;
+		background-position-x: -155px;
+		background-size: 600px 1600px;
 
-		background-attachment: fixed;
+		background-attachment: scroll;
 	}
 	.divPageContent {
 		padding-left: 0px;
@@ -389,9 +392,10 @@
 
 		background-image: url('../img/bg_600x1600.jpg');
 		background-position-y: 40px;
-		background-size: cover;
+		background-position-x: -155px;
+		background-size: 600px 1600px;
 
-		background-attachment: fixed;
+		background-attachment: scroll;
 	}
 	iframe {
 		width: 100% !important;
@@ -479,9 +483,10 @@
 
 		background-image: url('../img/bg_600x1600.jpg');
 		background-position-y: 40px;
-		background-size: cover;
+		background-position-x: -155px;
+		background-size: 600px 1600px;
 
-		background-attachment: fixed;
+		background-attachment: scroll;
 	}
 	iframe {
 		width: 100% !important;
@@ -570,9 +575,10 @@
 
 		background-image: url('../img/bg_600x1600.jpg');
 		background-position-y: 40px;
-		background-size: cover;
+		background-position-x: -155px;
+		background-size: 600px 1600px;
 
-		background-attachment: fixed;
+		background-attachment: scroll;
 	}
 	iframe {
 		width: 100% !important;
@@ -645,9 +651,10 @@
 
 		background-image: url('../img/bg_600x1600.jpg');
 		background-position-y: 40px;
-		background-size: cover;
+		background-position-x: -155px;
+		background-size: 600px 1600px;
 
-		background-attachment: fixed;
+		background-attachment: scroll;
 	}
 	iframe {
 		width: 100% !important;
@@ -720,9 +727,10 @@
 
 		background-image: url('../img/bg_600x1600.jpg');
 		background-position-y: 40px;
-		background-size: cover;
+		background-position-x: -155px;
+		background-size: 600px 1600px;
 
-		background-attachment: fixed;
+		background-attachment: scroll;
 	}
 	.divPageContent {
 		padding-left: 0px;
