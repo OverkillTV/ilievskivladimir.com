@@ -106,9 +106,6 @@
 		flex-direction: row-reverse;
 		justify-content: flex-end;
 	}
-	.divSiteLogo {
-		
-	}
 	.navLogo {
 		margin-right: 5px;
     	margin-left: 20px;
@@ -186,11 +183,6 @@
     }
 	.divTopNav {
 		flex-direction: row-reverse;
-	}
-	.divSiteLogo {
-		/* width: 71%;
-		justify-content: flex-start;
-		flex-direction: row-reverse; */
 	}
 	.navLogo {
 		margin-right: 5px;

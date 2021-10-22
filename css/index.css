@@ -42,7 +42,7 @@
     /* height: 100%; */
 }
 .divTextContent {
-    color: #C9C9C8;
+    color: #fff;
 
     display: flex;
     flex-direction: column;
@@ -60,6 +60,9 @@
 }
 .divTextContent .imgSoon {
     width: 100%;
+}
+.divTextContent .noDecorUL li {
+    list-style: none;
 }
 
 .goldLineText {
